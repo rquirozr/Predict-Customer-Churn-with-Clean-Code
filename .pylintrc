@@ -1,0 +1,3 @@
+[BASIC]
+# Good variable names
+good-names=df, X, y, X_train, X_test

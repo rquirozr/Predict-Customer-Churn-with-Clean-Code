@@ -1,0 +1,14 @@
+root - INFO - Testing import_data: SUCCESS
+root - INFO - Testing perform_eda png: SUCCESS for image churn_distribution
+root - INFO - Testing perform_eda png: SUCCESS for image customer_age_distribution
+root - INFO - Testing perform_eda png: SUCCESS for image marital_status_distribution
+root - INFO - Testing perform_eda png: SUCCESS for image total_trans_ct_histogram
+root - INFO - Testing perform_eda png: SUCCESS for image correlation_heatmap
+root - INFO - Testing encoder_helper: SUCCESS
+root - INFO - Testing perform_feature_engineering: SUCCESS
+root - INFO - Testing test_train_models png: SUCCESS for image ./images/results/plot_roc_curve.png
+root - INFO - Testing test_train_models png: SUCCESS for image ./models/rfc_model.pkl
+root - INFO - Testing test_train_models png: SUCCESS for image ./models/logistic_model.pkl
+root - INFO - Testing test_train_models png: SUCCESS for image ./images/results/explainer.png
+root - INFO - Testing test_train_models png: SUCCESS for image ./images/results/classification_report_train.png
+root - INFO - Testing test_train_models png: SUCCESS for image ./images/results/classification_report_test.png
